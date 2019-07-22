@@ -1,0 +1,49 @@
+
+
+40-80 Workflow rejection - Update Request - Rejected by SDS	#1
+40-81 Workflow rejection - Update Request - Rejected by SME	#1
+40-82 Workflow rejection - Creation Request - Rejected by SDS	#1, #11 , #17
+40-83 Workflow rejection - Creation Request - Rejected by SME	#1
+40-84 Workflow rejection - Deletion Request - Rejected by SDS	#1
+40-85 Workflow rejection - Deletion Request - Rejected by SME	#1
+40-86 Workflow rejection - Reactivation Request - Rejected by SDS	#1
+40-87 Workflow rejection - Reactivation Request - Rejected by SME	#1
+40-88 Explicit selection of a Approver from drop down-	#2
+40-89 Summary on recent import action	#5
+40-90 SME Permission Verification - List Updation Request - Requested by SME	#11
+40-91 SME Permission Verification - List Creation Request - Requested by SME	#11
+40-92 SME Permission Verification - List Deletion Request - Requested by SME	#11
+40-93 SME Permission Verification - List Reactivation Request - Requested by SME	#11
+40-94 SME Permission Verification - Item Creation Request - Requested by SME  	#11
+40-95 SDS Permission Verification - Item Creation Request - Requested by SDS	#11
+40-96 Workflow verification --List Creation 	#12
+40-97 Matching algorithm Verification - List Creation 	#13 
+
+\\na.novartis.net\useh-dfs\DATA\PH\PUBLIC
+Description:
+The aim is to verify the workflow when Reactivation Request rejected by  the Reviewer1 SME
+
+Pre-requisite:
+There should be at least one deleted  Reference data list with at least one Reference Data Item.
+Valid Excel file with item details including duplicate and new records.
+
+Created in the system and has acess to QA URL: 
+SDS 1
+SME 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.  40-88 SME Permission Verification - Item Updation Request - Requested by SME  -  #11 
+9.  40-88 SME Permission Verification - Item Updation Request - Requested by SDS-  #11 
+

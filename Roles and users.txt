@@ -1,0 +1,49 @@
+Role	User
+DS 1	sys_gdddev1
+DS 2	sys_gddqa2
+SDS 1	sys_gdddev2
+SDS 2	sys_gddpr2
+SDS 3	badigmo1
+SME 1	sys_gddpr1
+SME 2	sys_gddqa1
+
+
+SME 3	sys_gddqa2
+
+Marina1616
+
+-QA instance 
+https://gddmdm-qa.eu.novartis.net:8443/ebx
+
+-DEV instance:
+https://gddmdm-dev.eu.novartis.net:8443/ebx
+
+new
+SME1>SDS1>SME2
+SME>DS>SDS1
+SME1>DS>SME2
+SME>SDS1>SDS 2
+SME1>SME2>SDS
+SME1>SME2>SME 3
+
+Existing -confirm
+SME1>SDS1>SME2
+SME>DS>SDS1
+SME1>DS>SME2
+SME>SDS1>SDS 2
+SME1>SME2>SDS
+SME1>SME2>SME 3
+
+Existing ignore
+SME1>SDS1>SME2
+SME>DS>SDS1
+SME1>DS>SME2
+SME>SDS1>SDS 2
+SME1>SME2>SDS
+SME1>SME2>SME 3
+
+
+SDS 
+
+40-74,75,81,82,83,84,85,86,87,88,90,91,92,93,94,95,96,97,98
+
